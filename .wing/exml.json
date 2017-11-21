@@ -1,0 +1,16 @@
+{
+  "global": {
+    "globalBindingDataTestObj": [],
+    "globalAutoLayerMarkEnable": true
+  },
+  "15fd898cb7b": {
+    "bindingDataTestObj": [],
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1,
+    "useBgImage": true,
+    "useBgColor": true,
+    "backgroundAlpha": 100
+  }
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LevelIconSkin" width="77" height="77" currentState="up" xmlns:e="http://ns.egret.com/eui"   xmlns:w="http://ns.egret.com/wing" states="up,down,disabled" >
+	<w:Config id="15fd898cb7b"/>
+	<e:Image includeIn="disabled" left="0" right="0" top="0" bottom="0" source="gs_select_dis_png"/>
+	<e:Image includeIn="down" left="0" right="0" top="0" bottom="0" source="gs_select_1_png"/>
+	<e:Image includeIn="up" source="gs_select_1_png" left="0" right="0" top="0" bottom="0"/>
+	<e:Label id="lb_level" text="100" verticalCenter="0" horizontalCenter="0"/>
+</e:Skin>
